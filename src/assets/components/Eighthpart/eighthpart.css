@@ -1,0 +1,33 @@
+.team_main img{
+    width: 90%;
+    position: relative;
+    padding-bottom: 120px;
+    
+}
+
+.team_main_text_img img{
+    position: absolute;
+    top: 4800px;
+    left: 800px;
+    width: 50%;
+}
+.team_main_text{
+    margin-top: 40px;
+}
+
+.team_main_text h2{
+    font-size: 48px;
+    font-weight: 800;
+    color: #363024;
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+.team_main_text p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #524D43;
+    margin-top: 20px;
+    padding-right: 180px;
+}

@@ -1,0 +1,64 @@
+#Product{
+    padding: 120px 0px;
+}
+.Product_inner h2{
+    font-size: 48px;
+    font-weight: 800;
+    color: #363024;
+    font-family: "Open Sans", sans-serif;
+}
+.Product_inner_icon{
+   display: flex;
+   gap: 20px;
+   
+}
+.Product_inner_icon h2{
+    font-size: 50px;
+}
+
+.card_num{
+    display: flex;
+    gap: 70px;
+}
+.card_num h5{
+    font-size: 24px;
+    font-weight: 800;
+    color: #D6A033;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 15px;
+}
+.card_num h5:hover{
+    color: #FFFF;
+}
+.card_inner{
+    padding: 60px 0px;
+}
+
+.hair h3{
+    font-size: 22px;
+    font-weight: 800;
+    color: #363024;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 20px;
+}
+
+.card_text h4{
+    font-size: 18px;
+    font-weight: 600;
+    color: #363024;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 20px;
+}
+
+.card_body_main{
+    background-color: #FDF4E1;
+    transition: .5s;
+    transform: scale(1);
+}
+
+.card_body_main:hover{
+    background-color: #D6A033;
+    color: #FFFF !important;
+    transform: scale(1.1);
+    border-radius: 20px;
+}

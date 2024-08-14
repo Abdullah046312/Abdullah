@@ -1,0 +1,33 @@
+#Work{
+    background-color: rgba(24, 29, 33, 0.856);
+    padding: 120px 0px;
+}
+
+.Work_inner{
+   
+    text-align: center;
+    position: relative;
+    padding-bottom: 180px;
+}
+.Work_inner_img img{
+    position: absolute;
+    top: 100px;
+    left: 17px;
+    
+}
+
+.Work_inner h2{
+    font-size: 48px;
+    font-weight: 800;
+    color: #FBFBFA;
+    font-family: "Open Sans", sans-serif;
+
+}
+.Work_inner h4{
+    font-size: 24px;
+    font-weight: 600;
+    color: #FBFBFA;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 20px;
+
+}

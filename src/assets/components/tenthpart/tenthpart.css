@@ -1,0 +1,35 @@
+#Blog{
+    padding: 120px 0px;
+}
+.Blog_main{
+    text-align: center;
+}
+.Blog_main h2{
+    font-size: 48px;
+    font-weight: 800;
+    color: #363024;
+    font-family: "Open Sans", sans-serif;
+    padding-bottom: 50px;
+}
+.blog_img_inner h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #363024;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 20px;
+}
+
+.blog_img_inner_text h4{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #524D43;
+    margin-top: 20px;
+}
+.blog_img_inner_text h5{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Paprika", system-ui;
+    color: #D6A033;
+    margin-top: 30px;
+}

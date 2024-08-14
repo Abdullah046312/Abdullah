@@ -1,0 +1,49 @@
+#footer{
+    background-color: #181D21;
+    color: #FFFF;
+    padding: 120px 0px;
+}
+
+.footer_main p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Nunito", sans-serif;
+    color: rgba(254, 254, 254, 0.658);
+    margin-top: 20px;
+}
+
+.footer_text h3{
+    font-size: 24px;
+    font-weight: 600;
+    color: #FEFEFE;
+    font-family: "Open Sans", sans-serif;
+    padding-bottom: 20px;
+
+}
+.footer_text h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(254, 254, 254, 0.726);
+    font-family: "Nunito", sans-serif;
+    margin-top: 20px;
+
+}
+
+.footer_inner_text{
+    margin-top: 80px;
+}
+
+.footer_inner_text h4{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(254, 254, 254, 0.726);
+    font-family: "Nunito", sans-serif;
+    margin-top: 20px;
+}
+
+.footer_inner_text h5{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #524D43;
+}

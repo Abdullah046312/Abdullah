@@ -1,0 +1,54 @@
+#Choose{
+    padding: 120px 0px;
+}
+
+.Choose_main h2{
+    font-size: 48px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #363024;
+    padding-bottom: 60px;
+}
+
+.Choose_main_text {
+    margin-top: 30px;
+    position: relative;
+
+}
+.Choose_main_text_img img{
+    position: absolute;
+    top: -10px;
+    left: -91px;
+}
+.Choose_main_text h2{
+    font-size: 28px;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+    color: #363024;
+}
+
+.Choose_main_text p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #524D43;
+   padding-right: 0px 120px;
+   margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Choose_main_img img{
+    width: 100%;
+}

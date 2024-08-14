@@ -1,0 +1,39 @@
+#Service{
+    padding: 60px 0px;
+}
+.service_main img{
+    width: 100%;
+}
+
+
+
+.service_inner h2{
+    font-size: 48px;
+    font-weight: 800;
+    color: #363024;
+    font-family: "Open Sans", sans-serif;
+}
+
+.service_inner p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #524D43;
+    margin-top: 20px;
+    font-family: "Paprika", system-ui;
+}
+
+.service_inner button{
+    padding: 15px 40px;
+    background-color: #D6A033;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    border: none;
+    color: #F7F5F0;
+    margin-top: 50px;
+    transition: .5s;
+}
+
+.service_inner button:hover{
+    background-color: #247FFB;
+}

@@ -1,0 +1,23 @@
+.Testimonial_main{
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.Testimonial_main h2{
+    font-size: 48px;
+    font-weight: 800;
+    color: #363024;
+    font-family: "Open Sans", sans-serif;
+}
+
+.Testimonial_main_inner p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #524D43;
+    margin-top: 20px;
+}
+.Testimonial_inner img{
+    margin-top: 40px;
+    width: 40%;
+}
